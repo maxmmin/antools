@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/antools/static/css/main.467c1a0d.css",
-    "main.js": "/antools/static/js/main.246ca312.js",
+    "main.css": "/antools/static/css/main.348daaec.css",
+    "main.js": "/antools/static/js/main.a5fd6a02.js",
     "static/media/manage.svg": "/antools/static/media/manage.2e350a5964c95eb7820f77dfbd8709c3.svg",
     "static/media/lora-v20-latin-500.svg": "/antools/static/media/lora-v20-latin-500.e6a9739fe5d12ebe7366.svg",
     "static/media/lora-v20-latin-regular.svg": "/antools/static/media/lora-v20-latin-regular.cc383dc849b790d707c2.svg",
@@ -39,24 +39,24 @@
     "static/media/vscode.svg": "/antools/static/media/vscode.03f3c1bbc670683b57e364f7dd961f06.svg",
     "static/media/zeplin.svg": "/antools/static/media/zeplin.e37de9fb82d2d929b453a6c3a0846319.svg",
     "static/media/php.svg": "/antools/static/media/php.0ef65ce61c4f35e3c38be44266a93394.svg",
-    "static/media/slack-min.svg": "/antools/static/media/slack-min.f9563a7ff9a40453545a11fefbfa0fce.svg",
+    "static/media/slack-min.svg": "/antools/static/media/slack-min.abb95de4cf6af4d2f9e153961181ceb2.svg",
     "static/media/notion.svg": "/antools/static/media/notion.82d1a85a8c44386fe90ff3383f457033.svg",
-    "static/media/word-min.svg": "/antools/static/media/word-min.d7b989f8608b5da48c6fdba4299aa74f.svg",
+    "static/media/word-min.svg": "/antools/static/media/word-min.91886ca3cc210af157ffddabfa4f6f54.svg",
     "static/media/invis.svg": "/antools/static/media/invis.4d7925d4252c07e1b8608f3fc20ca230.svg",
     "static/media/figma.svg": "/antools/static/media/figma.3ff423f8754e5a8affd967855d69d70e.svg",
     "static/media/sketch.svg": "/antools/static/media/sketch.749b02755d60b243abdb83ea14f44673.svg",
     "index.html": "/antools/index.html",
     "static/media/toolbox.svg": "/antools/static/media/toolbox.1e1f8a073864bc0a72a5657ff22aa21a.svg",
-    "static/media/google-min.svg": "/antools/static/media/google-min.8d5b9dce73b8dc76447184564d97bfde.svg",
+    "static/media/google-min.svg": "/antools/static/media/google-min.e9a87b9d8082e0acff4785a2e9964145.svg",
     "static/media/search.svg": "/antools/static/media/search.ba163813dceef88c28c5041ee5250573.svg",
-    "static/media/micros-min.svg": "/antools/static/media/micros-min.1a47aa7589466b842bd68c6a02b191fe.svg",
+    "static/media/micros-min.svg": "/antools/static/media/micros-min.f777b85444b1ac3007d9bd2d1e8ba1a5.svg",
     "static/media/arrowdis.svg": "/antools/static/media/arrowdis.213d2fea8d7584caf19b56f86d84c5e5.svg",
     "static/media/defarrow.svg": "/antools/static/media/defarrow.1d555b0bfd578e16e941f9f1a2f76eae.svg",
-    "main.467c1a0d.css.map": "/antools/static/css/main.467c1a0d.css.map",
-    "main.246ca312.js.map": "/antools/static/js/main.246ca312.js.map"
+    "main.348daaec.css.map": "/antools/static/css/main.348daaec.css.map",
+    "main.a5fd6a02.js.map": "/antools/static/js/main.a5fd6a02.js.map"
   },
   "entrypoints": [
-    "static/css/main.467c1a0d.css",
-    "static/js/main.246ca312.js"
+    "static/css/main.348daaec.css",
+    "static/js/main.a5fd6a02.js"
   ]
 }
