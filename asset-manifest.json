@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/antools/static/css/main.348daaec.css",
+    "main.css": "/antools/static/css/main.785a23eb.css",
     "main.js": "/antools/static/js/main.a5fd6a02.js",
     "static/media/manage.svg": "/antools/static/media/manage.2e350a5964c95eb7820f77dfbd8709c3.svg",
     "static/media/lora-v20-latin-500.svg": "/antools/static/media/lora-v20-latin-500.e6a9739fe5d12ebe7366.svg",
@@ -52,11 +52,11 @@
     "static/media/micros-min.svg": "/antools/static/media/micros-min.f777b85444b1ac3007d9bd2d1e8ba1a5.svg",
     "static/media/arrowdis.svg": "/antools/static/media/arrowdis.213d2fea8d7584caf19b56f86d84c5e5.svg",
     "static/media/defarrow.svg": "/antools/static/media/defarrow.1d555b0bfd578e16e941f9f1a2f76eae.svg",
-    "main.348daaec.css.map": "/antools/static/css/main.348daaec.css.map",
+    "main.785a23eb.css.map": "/antools/static/css/main.785a23eb.css.map",
     "main.a5fd6a02.js.map": "/antools/static/js/main.a5fd6a02.js.map"
   },
   "entrypoints": [
-    "static/css/main.348daaec.css",
+    "static/css/main.785a23eb.css",
     "static/js/main.a5fd6a02.js"
   ]
 }
